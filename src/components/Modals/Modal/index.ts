@@ -7,4 +7,4 @@
  * @developer  Suman Barua <sumanbarua576@gmail.com>
  */
 
-import 'react-scripts';
+export { default } from './Modal';

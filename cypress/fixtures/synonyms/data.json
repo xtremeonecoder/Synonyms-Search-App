@@ -1,0 +1,25 @@
+{
+  "searchKey": ["A", "B", "Nice", "Beautiful", "Pretty", "Charming"],
+  "inputData": [
+    {
+      "word": "A",
+      "synonyms": "B"
+    },
+    {
+      "word": "B",
+      "synonyms": "C"
+    },
+    {
+      "word": "Nice",
+      "synonyms": "Beautiful,Charming"
+    },
+    {
+      "word": "Beautiful",
+      "synonyms": "Beauty,Pretty"
+    },
+    {
+      "word": "Pretty",
+      "synonyms": "Sweet,Cute"
+    }
+  ]
+}

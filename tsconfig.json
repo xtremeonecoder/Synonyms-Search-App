@@ -1,11 +1,16 @@
+/**
+ * Synonyms Search Tool
+ *
+ * @category   Application_Frontend
+ * @package    synonym-search-frontend
+ * @author     Suman Barua
+ * @developer  Suman Barua <sumanbarua576@gmail.com>
+ */
+
 {
   "compilerOptions": {
     "target": "es5",
-    "lib": [
-      "dom",
-      "dom.iterable",
-      "esnext"
-    ],
+    "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
@@ -18,9 +23,8 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "baseUrl": "./"
   },
-  "include": [
-    "src"
-  ]
+  "include": ["src", ".eslintrc.js", "cypress.config.ts"]
 }

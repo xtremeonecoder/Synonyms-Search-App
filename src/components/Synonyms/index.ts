@@ -7,4 +7,6 @@
  * @developer  Suman Barua <sumanbarua576@gmail.com>
  */
 
-import 'react-scripts';
+export { default as AddSynonyms } from './Add';
+export { default as ClearMemory } from './Clear';
+export { default as LookupSynonyms } from './Lookup';

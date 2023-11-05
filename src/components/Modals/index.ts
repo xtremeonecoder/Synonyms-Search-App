@@ -7,4 +7,5 @@
  * @developer  Suman Barua <sumanbarua576@gmail.com>
  */
 
-import 'react-scripts';
+export { default as Modal } from './Modal';
+export { default as ConfirmModal } from './ConfirmModal';

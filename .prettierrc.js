@@ -7,4 +7,11 @@
  * @developer  Suman Barua <sumanbarua576@gmail.com>
  */
 
-import 'react-scripts';
+module.exports = {
+  semi: true,
+  trailingComma: 'all',
+  singleQuote: true,
+  printWidth: 100,
+  tabWidth: 2,
+  bracketSpacing: true,
+};
