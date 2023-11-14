@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Online Demo: [Click here to see the demo](https://synonyms-search-app.web.app/)
+
 ## Development Environment Setup
 
 No matter what IDE you are using for the development, you will always get the support of prettier formatting and eslinter through the project codebase. But it is recommended to use Visual Studio Code (VSCode).
